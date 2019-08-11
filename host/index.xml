@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your Hosts on Seven of Seven</title>
-    <link>http://sevenofseven.site/host/</link>
+    <link>https://sevenofseven.github.io/host/</link>
     <description>Recent content in Your Hosts on Seven of Seven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Dec 2016 20:55:58 -0600</lastBuildDate>
     
-	<atom:link href="http://sevenofseven.site/host/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenofseven.github.io/host/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Christopher &#39;Chief&#39; Najewicz</title>
-      <link>http://sevenofseven.site/host/chief/</link>
+      <link>https://sevenofseven.github.io/host/chief/</link>
       <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
       
-      <guid>http://sevenofseven.site/host/chief/</guid>
+      <guid>https://sevenofseven.github.io/host/chief/</guid>
       <description>By day, he&amp;rsquo;s making the internet go down, by night he strives for the impossible. Christopher &amp;lsquo;Chief&amp;rsquo; Najewicz is an avid b-movie and cult film junkie. He once pissed off Janeane Garofalo.</description>
     </item>
     
     <item>
       <title>John &#39;Johnny&#39; Miller</title>
-      <link>http://sevenofseven.site/host/johnny/</link>
+      <link>https://sevenofseven.github.io/host/johnny/</link>
       <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
       
-      <guid>http://sevenofseven.site/host/johnny/</guid>
+      <guid>https://sevenofseven.github.io/host/johnny/</guid>
       <description></description>
     </item>
     
