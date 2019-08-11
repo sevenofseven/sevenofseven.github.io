@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Seven of Seven</title>
+    <link>http://sevenofseven.site/about/</link>
+    <description>Recent content in Abouts on Seven of Seven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="http://sevenofseven.site/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://sevenofseven.site/about/</link>
+      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
+      
+      <guid>http://sevenofseven.site/about/</guid>
+      <description> WTF Is This Podcast About? </description>
+    </item>
+    
+  </channel>
+</rss>
