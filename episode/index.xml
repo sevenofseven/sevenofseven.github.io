@@ -1,0 +1,62 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>Seven of Seven</title>
+    <atom:link href="https://sevenofseven.wtf/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sevenofseven.wtf</link>
+    <description>Join Chief and Johnny as they explore the legendary cinematic masterpiece that set the world ablaze: SEVEN (No, not that one). They dissect the film in seven minute segments, unpacking the wild, wet, and weird world of Andy Sidaris and attempt to stay (relatively) sane in the process. SPOILER: They fail.</description>
+    <lastBuildDate>Sun, 1 Sep 2019 13:43:56 -0400</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright>Copyright 2019 Seven of Seven</copyright>
+    <itunes:subtitle>A podcast about the films of Andy Sidaris</itunes:subtitle>
+    <itunes:author>Seven of Seven</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Seven of Seven</googleplay:author>
+    <googleplay:email>chief@beefdisciple.com</googleplay:email>
+    <itunes:summary>Join Chief and Johnny as they explore the legendary cinematic masterpiece that set the world ablaze: SEVEN (No, not that one). They dissect the film in seven minute segments, unpacking the wild, wet, and weird world of Andy Sidaris and attempt to stay (relatively) sane in the process. SPOILER: They fail.</itunes:summary>
+    <googleplay:description>Join Chief and Johnny as they explore the legendary cinematic masterpiece that set the world ablaze: SEVEN (No, not that one). They dissect the film in seven minute segments, unpacking the wild, wet, and weird world of Andy Sidaris and attempt to stay (relatively) sane in the process. SPOILER: They fail.</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Christopher Najewicz</itunes:name>
+      <itunes:email>chief@beefdisciple.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://sevenofseven.wtf/img/7o7-lg.png" />
+    <googleplay:image href="https://sevenofseven.wtf/img/7o7-lg.png"></googleplay:image>
+    <image>
+      <url>https://sevenofseven.wtf/img/7o7-lg.png</url>
+      <title>Seven of Seven</title>
+      <link>https://sevenofseven.wtf</link>
+    </image>
+    <itunes:category text="Entertainment">
+      <itunes:category text="Movies" /><itunes:category text="By-the-minute" /></itunes:category><itunes:explicit>yes</itunes:explicit>
+    <googleplay:explicit>yes</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Intros and Minutes 1-7</title>
+          <link>https://sevenofseven.wtf/minutes1-7/</link>
+          <pubDate>Sun, 01 Sep 2019 13:43:56 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://sevenofseven.wtf/episodes/seven-of-seven-ep1.mp3</guid>
+          <itunes:author>
+            
+            
+              John &#39;Johnny&#39; Miller 
+              
+                    and Christopher &#39;Chief&#39; Najewicz</itunes:author>
+          
+        <itunes:summary>We introduce ourselves and talk about the first SEVEN minutes of Andy Sidaris&#39; Seven.</itunes:summary>
+        <description>We introduce ourselves and talk about the first SEVEN minutes of Andy Sidaris&#39; Seven.</description>
+        <googleplay:description>We introduce ourselves and talk about the first SEVEN minutes of Andy Sidaris&#39; Seven.</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://sevenofseven.wtf/img/episode/default.jpg"></itunes:image>
+          <googleplay:image href="https://sevenofseven.wtf/img/episode/default.jpg"></googleplay:image><enclosure url="https://sevenofseven.wtf/episodes/seven-of-seven-ep1.mp3"  type="audio/mpeg" /><itunes:duration>40:27</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item></channel>
+</rss>

@@ -3,45 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sevenofseven.github.io/host/chief/</loc>
+    <loc>https://sevenofseven.wtf/episode/</loc>
+    <lastmod>2019-09-01T13:43:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenofseven.wtf/minutes1-7/</loc>
+    <lastmod>2019-09-01T13:43:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenofseven.wtf/</loc>
+    <lastmod>2019-09-01T13:43:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenofseven.wtf/host/chief/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/host/johnny/</loc>
+    <loc>https://sevenofseven.wtf/host/johnny/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sevenofseven.github.io/host/</loc>
+    <loc>https://sevenofseven.wtf/host/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/about/</loc>
+    <loc>https://sevenofseven.wtf/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/about/</loc>
+    <loc>https://sevenofseven.wtf/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://sevenofseven.wtf/categories/</loc>
   </url>
   
   <url>
-    <loc>https://sevenofseven.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://sevenofseven.wtf/tags/</loc>
   </url>
   
 </urlset>

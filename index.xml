@@ -2,40 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seven of Seven</title>
-    <link>https://sevenofseven.github.io/</link>
+    <link>https://sevenofseven.wtf/</link>
     <description>Recent content on Seven of Seven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2016 20:55:58 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 13:43:56 -0400</lastBuildDate>
     
-	<atom:link href="https://sevenofseven.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenofseven.wtf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Intros and Minutes 1-7</title>
+      <link>https://sevenofseven.wtf/minutes1-7/</link>
+      <pubDate>Sun, 01 Sep 2019 13:43:56 -0400</pubDate>
+      
+      <guid>https://sevenofseven.wtf/minutes1-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christopher &#39;Chief&#39; Najewicz</title>
-      <link>https://sevenofseven.github.io/host/chief/</link>
+      <link>https://sevenofseven.wtf/host/chief/</link>
       <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
       
-      <guid>https://sevenofseven.github.io/host/chief/</guid>
+      <guid>https://sevenofseven.wtf/host/chief/</guid>
       <description>By day, he&amp;rsquo;s making the internet go down, by night he strives for the impossible. Christopher &amp;lsquo;Chief&amp;rsquo; Najewicz is an avid b-movie and cult film junkie. He once pissed off Janeane Garofalo.</description>
     </item>
     
     <item>
       <title>John &#39;Johnny&#39; Miller</title>
-      <link>https://sevenofseven.github.io/host/johnny/</link>
+      <link>https://sevenofseven.wtf/host/johnny/</link>
       <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
       
-      <guid>https://sevenofseven.github.io/host/johnny/</guid>
-      <description></description>
+      <guid>https://sevenofseven.wtf/host/johnny/</guid>
+      <description>Johnny is a published historian and luchadore roller derby announcer which, as you no doubt noticed, makes him uniquely qualified for podcasting about films. He&amp;rsquo;ll do lackluster impressions at the drop of a hat for far too long and can recite you his entire 30 page research paper on Godzilla. The capital of Nebraska is Lincoln.</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://sevenofseven.github.io/about/</link>
+      <link>https://sevenofseven.wtf/about/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       
-      <guid>https://sevenofseven.github.io/about/</guid>
-      <description> WTF Is This Podcast About? </description>
+      <guid>https://sevenofseven.wtf/about/</guid>
+      <description></description>
     </item>
     
   </channel>
