@@ -37,8 +37,8 @@
       <title>Seven of Seven</title>
       <link>https://sevenofseven.wtf</link>
     </image>
-    <itunes:category text="Entertainment">
-      <itunes:category text="Movies" /><itunes:category text="By-the-minute" /></itunes:category><itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="TV &amp; Film">
+      </itunes:category><itunes:explicit>yes</itunes:explicit>
     <googleplay:explicit>yes</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
           <title>Intros and Minutes 1-7</title>
