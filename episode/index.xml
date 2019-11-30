@@ -14,7 +14,7 @@
     <atom:link href="https://sevenofseven.wtf/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://sevenofseven.wtf</link>
     <description>Join Chief and Johnny as they explore the legendary cinematic masterpiece that set the world ablaze: SEVEN (No, not that one). They dissect the film in seven minute segments, unpacking the wild, wet, and weird world of Andy Sidaris and attempt to stay (relatively) sane in the process. SPOILER: They fail.</description>
-    <lastBuildDate>Mon, 2 Sep 2019 13:43:56 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2019 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -40,6 +40,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><itunes:explicit>yes</itunes:explicit>
     <googleplay:explicit>yes</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Webbed Nostrils, the Hermit, Cowboy &amp; Butterfly (Minutes 14-21)</title>
+          <link>https://sevenofseven.wtf/minutes14-21/</link>
+          <pubDate>Sun, 24 Nov 2019 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://sevenofseven.wtf/episodes/seven-of-seven-ep3.mp3</guid>
+          <itunes:author>
+            
+            
+              John &#39;Johnny&#39; Miller 
+              
+                    and Christopher &#39;Chief&#39; Najewicz</itunes:author>
+          
+          <itunes:episode>103</itunes:episode>
+          
+        <itunes:summary>Minutes 14-21; Webbed Nostrils, The Hermit, Cowboy &amp; Butterfly</itunes:summary>
+        <description>Minutes 14-21; Webbed Nostrils, The Hermit, Cowboy &amp; Butterfly</description>
+        <googleplay:description>Minutes 14-21; Webbed Nostrils, The Hermit, Cowboy &amp; Butterfly</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://sevenofseven.wtf/img/episode/default.jpg"></itunes:image>
+          <googleplay:image href="https://sevenofseven.wtf/img/episode/default.jpg"></googleplay:image><enclosure url="https://sevenofseven.wtf/episodes/seven-of-seven-ep3.mp3"  type="audio/mpeg" /><itunes:duration>30:06</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Gratuitous Boob Collective (Minutes 7-14)</title>
           <link>https://sevenofseven.wtf/minutes7-14/</link>
