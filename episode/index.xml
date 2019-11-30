@@ -14,7 +14,7 @@
     <atom:link href="https://sevenofseven.wtf/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://sevenofseven.wtf</link>
     <description>Join Chief and Johnny as they explore the legendary cinematic masterpiece that set the world ablaze: SEVEN (No, not that one). They dissect the film in seven minute segments, unpacking the wild, wet, and weird world of Andy Sidaris and attempt to stay (relatively) sane in the process. SPOILER: They fail.</description>
-    <lastBuildDate>Sun, 24 Nov 2019 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2019 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -40,6 +40,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><itunes:explicit>yes</itunes:explicit>
     <googleplay:explicit>yes</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Orange Julius, T.K. Ramsey Superfly, Mr. Chen, Farmer McDowell (Minutes 21-28)</title>
+          <link>https://sevenofseven.wtf/minutes21-28/</link>
+          <pubDate>Sat, 30 Nov 2019 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://sevenofseven.wtf/episodes/seven-of-seven-ep4.mp3</guid>
+          <itunes:author>
+            
+            
+              John &#39;Johnny&#39; Miller 
+              
+                    and Christopher &#39;Chief&#39; Najewicz</itunes:author>
+          
+          <itunes:episode>104</itunes:episode>
+          
+        <itunes:summary>Minutes 21-28; Orange Julius, T.K. Ramsey Superfly, Mr. Chen, Farmer McDowell</itunes:summary>
+        <description>Minutes 21-28; Orange Julius, T.K. Ramsey Superfly, Mr. Chen, Farmer McDowell</description>
+        <googleplay:description>Minutes 21-28; Orange Julius, T.K. Ramsey Superfly, Mr. Chen, Farmer McDowell</googleplay:description>
+        <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://sevenofseven.wtf/img/episode/default.jpg"></itunes:image>
+          <googleplay:image href="https://sevenofseven.wtf/img/episode/default.jpg"></googleplay:image><enclosure url="https://sevenofseven.wtf/episodes/seven-of-seven-ep4.mp3"  type="audio/mpeg" /><itunes:duration>33:41</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Webbed Nostrils, the Hermit, Cowboy &amp; Butterfly (Minutes 14-21)</title>
           <link>https://sevenofseven.wtf/minutes14-21/</link>
