@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Seven of Seven</title>
-    <link>https://sevenofseven.wtf/about/</link>
+    <link>https://sevenofseven.site/about/</link>
     <description>Recent content in Abouts on Seven of Seven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
     
-	<atom:link href="https://sevenofseven.wtf/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenofseven.site/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>https://sevenofseven.wtf/about/</link>
+      <link>https://sevenofseven.site/about/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       
-      <guid>https://sevenofseven.wtf/about/</guid>
+      <guid>https://sevenofseven.site/about/</guid>
       <description></description>
     </item>
     
